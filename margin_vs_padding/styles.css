@@ -1,0 +1,29 @@
+.demo {
+	width: 800px;
+	background-color: #2ee2ff;
+	border: 10px dashed #2eff8b;
+	margin: 15px 15px 20px 20px;
+	padding: 15px 30px;
+
+}
+
+.box {
+	width: 800px;
+	height: 200px;
+	background-color: #333333;
+}
+
+/*
+	
+	Experiment
+-------------------------------------------------
+1.) Add a 10 px border around the demo class (border: 10px dashed #2eff8b)
+2.) Add 15 px margin to the demo class  (margin: 15px)
+3.) Add 15 px padding to the demo class (padding: 15px)
+4.) Change margin to have 20px top/bottom and 15px left/right  (margin: 20px 15px;)
+5.) Change padding to have 20px top/bottom and 15px left/right  (padding: 20px 15px;) 
+
+Note: steps 4 and 5 could have used this format (margin: 20px 15px 20px 15px). 
+Remember Top, Right, Bottom Left;
+
+*/
