@@ -1,1 +1,1 @@
-# ku_demo
+# ku_coding_resources
