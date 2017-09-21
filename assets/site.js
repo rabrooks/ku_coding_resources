@@ -12,11 +12,6 @@ var SideNav = (function(){
 	}
 })();
 
-
-
-
 $(document).ready(function() {
 	SideNav.init();
 });
-
-
